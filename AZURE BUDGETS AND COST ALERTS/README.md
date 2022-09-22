@@ -29,4 +29,7 @@ On the alerts, I set a forecast alert at 50%  which will alert me when I am almo
 alert me when I'm almost at 8.00 US dollars and I set an actual alert at 100% which will alert me when I'm exactly at 10.00 US dollars. 
 
 The budget and cost alerts are set, and now, you're allowed to proceed with provisioning without worrying on unexpected costs!
+
+This is the final overview of FirstAZBudget and its cost alerts.
+
 ![Screenshot (106)](https://user-images.githubusercontent.com/113304497/191712892-0afcbd59-077b-42bd-9928-a27102621e48.png)
