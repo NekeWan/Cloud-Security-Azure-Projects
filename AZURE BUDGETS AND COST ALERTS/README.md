@@ -32,4 +32,4 @@ The budget and cost alerts are set, and now, you're allowed to proceed with prov
 
 This is the final overview of FirstAZBudget and its cost alerts.
 
-![Screenshot (106)](https://user-images.githubusercontent.com/113304497/191712892-0afcbd59-077b-42bd-9928-a27102621e48.png)
+
